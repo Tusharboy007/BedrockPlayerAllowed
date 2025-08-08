@@ -1,0 +1,4 @@
+name: BedrockPlayerAllowed
+version: 1.0
+main: me.example.bedrockplayerallowed.BedrockPlayerAllowed
+api-version: 1.13
